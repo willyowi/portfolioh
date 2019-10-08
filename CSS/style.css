@@ -209,4 +209,12 @@ body {
         max-height: 50vh;
     }
 }
-
+.modal{
+    background-color:grey
+}
+.modal-body  {
+    background-color: #676767
+}
+.modal-footer {
+    background-color: #676767
+}
